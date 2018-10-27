@@ -17,6 +17,14 @@ In this app, I have used `newsapi.org` API key to consume their API.
 2. Run http server from your project folder: `http-server`
 3. Access the application with: http://127.0.0.1:8080 *Note: * This default port. It may change.
 
+# Step(s) to test the app (Manual)
+1. Once app runs successfully, access it through browser.
+2. Releoad the page.
+3. Change the default news source (in this case `Google News (India)`) to other.
+4. Turn of the internet and relead the page.
+
+*Expected output*: You will be able to see the visited news page content(s) even though there is no internet connection.
+
 *Note*:
 1. fallback.json: Custom response object when you try to access the application without internet.
 

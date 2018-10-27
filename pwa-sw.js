@@ -1,8 +1,8 @@
 const staticAssets = [
     './',
     './app.js',
-    './styles.css',
     './fallbacks.json',
+    './assets/styles.css',
     './assets/images/no-content-found.png',
 ];
 
