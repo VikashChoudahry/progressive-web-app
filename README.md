@@ -1,5 +1,5 @@
 # progressive-web-app
-Progressive Web App using server-worker
+Progressive Web App using service-worker
 
 # Description
 This app is created for learning purpose with live example to know how
