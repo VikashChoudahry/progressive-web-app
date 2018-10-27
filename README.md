@@ -5,7 +5,7 @@ Progressive Web App using server-worker
 This app is created for learning purpose with live example to know how
 progressive web application basically works.
 
-In this app, I have used `newsapi.org` API key to access consume their API.
+In this app, I have used `newsapi.org` API key to consume their API.
 
 # Pre-requisite(s)
 1. Create an account in newsapi.org. *Note: * In-case you want to use your own generated API key.
