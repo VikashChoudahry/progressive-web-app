@@ -27,6 +27,9 @@ In this app, I have used `newsapi.org` API key to consume their API.
 
 *Note*:
 1. fallback.json: Custom response object when you try to access the application without internet.
+2. Progressive web app (PWA) can also be achieved through "Application Cache" functionality.
+But it is going to be depreciated.
+For more details: `https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache`
 
 # Reference:
 1. Youtube link: https://www.youtube.com/watch?v=gcx-3qi7t7c&t=2122s
